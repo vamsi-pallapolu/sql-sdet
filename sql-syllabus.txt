@@ -1,0 +1,9 @@
+Tutorial 1: Overview on Database, DBMS/RDBMS, SQL | Database Components
+Tutorial 2: Installing MySQL, Working with SQL Workbench & Command Line Clients
+Tutorial 3: Create Database,Table, Inserting Records and Retrieving Data
+Tutorial 4: Filtering Rows(Where Clause), Operators & Pattern Matching
+Tutorial 5: DDL (Data Definition Language) Commands
+Tutorial 6: MySQL Built-in Functions in SQL
+Tutorial 7: Group By, Having & ,Order By Clauses in SQL
+Tutorial 8: Union & Union All in SQL
+Tutorial 9: SQL Joins and Sub Queries

@@ -1,0 +1,12 @@
+USE hr;
+SELECT * FROM employees;
+SELECT EMPLOYEE_ID, FIRST_NAME, LAST_NAME, SALARY FROM EMPLOYEES; 
+SELECT EMPLOYEE_ID, FIRST_NAME, LAST_NAME, SALARY, SALARY+300 as SAL FROM EMPLOYEES; 
+select * from employees where salary > 15000;
+select * from employees where salary <= 5000;
+select * from employees where department_id=30;
+select * from employees where commission_pct is null;
+select * from employees where first_name='Jennifer';
+select department_id from employees;
+select distinct department_id from employees;
+select distinct * from employees;
