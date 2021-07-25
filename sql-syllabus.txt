@@ -7,3 +7,4 @@ Tutorial 6: MySQL Built-in Functions in SQL
 Tutorial 7: Group By, Having & ,Order By Clauses in SQL
 Tutorial 8: Union & Union All in SQL
 Tutorial 9: SQL Joins and Sub Queries
+Tutorial 10: Integrity Constraints
