@@ -8,3 +8,6 @@ Tutorial 7: Group By, Having & ,Order By Clauses in SQL
 Tutorial 8: Union & Union All in SQL
 Tutorial 9: SQL Joins and Sub Queries
 Tutorial 10: Integrity Constraints
+Tutorial 11: Auto Increment & Limit
+Tutorial 12: SQL Views & Index
+Tutorial 13: TCL Commands | Commit | Rollback
