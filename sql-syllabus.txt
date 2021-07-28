@@ -11,3 +11,6 @@ Tutorial 10: Integrity Constraints
 Tutorial 11: Auto Increment & Limit
 Tutorial 12: SQL Views & Index
 Tutorial 13: TCL Commands | Commit | Rollback
+Tutorial 14: JDBC | Java Database Connectivity with MySQL
+Tutorial 15: ODBC | Open Database Connectivity with MySQL
+Tutorial 16: MySQL Command Line Tools/Clients | Connecting to Remote MySQL Database Server
